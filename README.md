@@ -1,4 +1,4 @@
-# 11.HumanCapital-Industralisation
+# Education and Industralisation
 Litvinova Olga
 
 m: litvinova2404@gmail.com
