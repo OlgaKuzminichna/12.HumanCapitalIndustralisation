@@ -293,3 +293,10 @@ pre-industrial control variables to all factories
 ```
 
 
+```{r}
+#install.packages("quarto")
+library(quarto)
+quarto_render("Education.qmd", output_format = "ipynb")
+```
+
+
