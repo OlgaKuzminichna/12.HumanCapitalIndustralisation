@@ -89,12 +89,4 @@ This study examines whether **the presence of knowledge elites** (measured by **
 | **Methodology** | OLS & IV regression | OLS regression |
 | **Findings** | Education in **1816** strongly predicts industrial employment in **1849** | Knowledge elites (book subscriptions) correlate with **economic growth** |
 
-
 ---
-
-## **How to Use This Repository**
-1. **Run the Quarto or Jupyter Notebook files** to replicate the analysis.
-2. **Data files** must be placed in the specified directory (`.dta` format).
-3. **Install required R packages** before running:
-   ```r
-   install.packages(c("texreg", "ivreg", "AER", "lmtest", "sandwich", "haven"))
